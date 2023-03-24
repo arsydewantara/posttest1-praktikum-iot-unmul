@@ -8,6 +8,10 @@
 # Judul Studi Kasus
 ## Mengatur On Off Led dan Buzzer serta mengatur cahaya dan frekuensi Led dan Buzzer
 
+# Deskripsi
+Rangkaian ini adalah rangkaian yang disusun dari beberapa komponen yang dimana ada led buzzer dan beberapa tombol.
+lampu Led bisa di on/off dan di naik/turun kan cahayanya, sedangkan buzzer bisa di on/off dan naik/turun frekuensinya
+
 # Pembagian Tugas
 ## Yanuar Gideon Simalango
    * Membuat codingan dari rangkaian
