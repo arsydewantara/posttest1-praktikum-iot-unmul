@@ -1,12 +1,12 @@
 # posttest1-praktikum-iot-unmul
 
-*Anggota Kelompok:
+# Anggota Kelompok:
 * Yanuar Gideon Simalango (2009106014)
 * Muhammad Arsy Dewantara (2009106033)
 * Mira Sartika Lengkong   (2009106039)
 
 # Judul Studi Kasus
-## Mengatur On Off Led dan Buzzer serta mengatur cahaya dan frekuensi Led dan Buzzer
+Mengatur On Off Led dan Buzzer serta mengatur cahaya dan frekuensi Led dan Buzzer
 
 # Deskripsi
 Rangkaian ini adalah rangkaian yang disusun dari beberapa komponen yang dimana ada led buzzer dan beberapa tombol.
