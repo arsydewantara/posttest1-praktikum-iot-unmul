@@ -31,6 +31,11 @@
   * 16 Kabel Jumper
   * 1 Kabel USB
   
-# Board Schematic!
-[WhatsApp Image 2023-03-24 at 23 48 48](https://user-images.githubusercontent.com/74332636/227574971-7679c744-ce60-4939-b127-d5dab46f5c27.jpeg)
+# Board Schematic
+![rangkaian jpg](https://user-images.githubusercontent.com/74332636/227576220-27b3dbbf-c84d-4647-8d6d-c3d96d26f52d.jpeg)
+<p align="center">
+  <img src="rangkaian.jpeg" width="350" title="rangkaian posttest 1">
+</p>
+
+
 
