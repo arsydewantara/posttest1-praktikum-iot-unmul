@@ -34,7 +34,7 @@
 # Board Schematic
 ![rangkaian jpg](https://user-images.githubusercontent.com/74332636/227576220-27b3dbbf-c84d-4647-8d6d-c3d96d26f52d.jpeg)
 <p align="center">
-  <img src="rangkaian.jpeg" width="350" title="rangkaian posttest 1">
+  <img src="rangkaian.jpeg" width="350">
 </p>
 
 
